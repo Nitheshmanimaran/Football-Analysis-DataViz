@@ -1,0 +1,40 @@
+To run :
+streamlit run Homepage.py
+
+Required Packages - Plotly, Pandas, MatplotLib, WordCloud(pip install wordcloud)
+
+Please change the required file path wherever necessary
+
+File : Homepage.py - Setup the final.png image path
+
+File : 00_Football_Fan_Page.py - Setup the FIFA23_official_data.csv path - line 21
+
+File : 01_Club_Rankings.py - Setup the Soccer_Football Clubs Ranking.csv - line 21
+
+File : 02_Players_info.py - Setup the FIFA23_official_data.csv - line 21
+
+File : 03_Champions_League.py - Setup the ucl_stats.csv - line 21
+
+
+
+For the below five files please change it in two places - line 17 , 537
+
+File : 04_English_Premier_league.py - English premier league data.csv - change in line 17 , 537
+
+File : 05_La_Liga.py     - spanish laliga data.csv - change in line 17 , 537
+
+File : 06_League_1.py  - french ligue1 data.csv - change in line 17 , 537
+
+File : 07_Bundesliga.py  - german bundesliga data.csv - change in line 17 , 537
+
+FIle : 08_Seria_A.py   - italian seriaA data.csv  - change in line 17 , 537
+
+
+Additional Informations:
+For each file there are areas to select the category you want to visualise - Play with it..
+
+Feel free to reach out through the below email for any queries:
+
+nitheshmanimaran@gmail.com
+
+Thank You.
